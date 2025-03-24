@@ -15,8 +15,8 @@ Where:
 - W(1) and W(2) are weight matrices.
 - b(1) and b(2) are bias terms.
 - The activation function used is the ReLU function.
-  
-The loss function used is **Mean Squared Error (MSE)**, which is applied to the predicted and true age values. The network is trained using **Stochastic Gradient Descent (SGD)**, and backpropagation is implemented to compute gradients.
+
+The training and testing data can be found in `data.zip`.
 
 ### Loss Function
 
